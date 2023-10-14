@@ -25,6 +25,12 @@ const MovieCard = ({ movie }: Props) => {
       <div>
         <span>{Type}</span>
         <h3>{Title}</h3>
+        <a
+          href={`http://imdb.com/title/${imdbID}`}
+          target='_blank'
+        >
+          View IMDB
+        </a>
       </div>
     </div>
   )
