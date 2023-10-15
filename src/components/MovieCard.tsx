@@ -18,7 +18,7 @@ const MovieCard = ({ movie88 }: Props) => {
       <div>
         <img
           src={
-            imageUrl !== 'N/A' ? imageUrl : 'https://via.placeholder.com/400'
+            imageUrl === 'N/A' ? 'https://via.placeholder.com/400' : imageUrl
           }
           alt={Title}
         />
