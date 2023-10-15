@@ -1,76 +1,76 @@
 {
     "Search": [
         {
-            "Title": "I, Robot",
-            "Year": "2004",
-            "imdbID": "tt0343818",
+            "Title": "The King of Comedy",
+            "Year": "1982",
+            "imdbID": "tt0085794",
             "Type": "movie",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BNmE1OWI2ZGItMDUyOS00MmU5LWE0MzUtYTQ0YzA1YTE5MGYxXkEyXkFqcGdeQXVyMDM5ODIyNw@@._V1_SX300.jpg"
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1YjBlNTItYjM0YS00ZTBjLWI0Y2EtNDg2NGZlOTZlMDk2XkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_SX300.jpg"
         },
         {
-            "Title": "Mr. Robot",
-            "Year": "2015–2019",
-            "imdbID": "tt4158110",
-            "Type": "series",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BM2QyNDIzOGMtNThhNS00NmUwLWI0ZjUtZjdkN2I1OTRjZWQ3XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_SX300.jpg"
-        },
-        {
-            "Title": "Robot & Frank",
-            "Year": "2012",
-            "imdbID": "tt1990314",
+            "Title": "A Midsummer Night's Sex Comedy",
+            "Year": "1982",
+            "imdbID": "tt0084329",
             "Type": "movie",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BMTUzMTE0NTk4Ml5BMl5BanBnXkFtZTcwNjQ1OTMwOA@@._V1_SX300.jpg"
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOTMxMTM0MTk3Nl5BMl5BanBnXkFtZTcwOTEyODI1NA@@._V1_SX300.jpg"
         },
         {
-            "Title": "Robot Chicken",
-            "Year": "2001–",
-            "imdbID": "tt0437745",
+            "Title": "The Bugs Bunny/Looney Tunes Comedy Hour",
+            "Year": "1985–1986",
+            "imdbID": "tt0088491",
             "Type": "series",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BM2NlNzE5NjYtMzFhMC00ZTU3LWJlNTktYWI3YjBmN2QyMzM0XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_SX300.jpg"
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMDEwNTAwNjMtNTgwZC00Y2RjLTliOTYtZWI4NGNlNjI4ZTVjXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_SX300.jpg"
         },
         {
-            "Title": "They Call Me Jeeg Robot",
+            "Title": "Fear City: A Family-Style Comedy",
+            "Year": "1994",
+            "imdbID": "tt0109440",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjVlZDliMWItMDI3ZS00OTc3LTlmZWYtZmMxZDlkMTlhYTNhXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_SX300.jpg"
+        },
+        {
+            "Title": "My Teen Romantic Comedy SNAFU",
+            "Year": "2013–2023",
+            "imdbID": "tt2703720",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYzRkMWFkNGMtMzQ0Zi00MWQ2LTk1MjgtODJkZjY3NTQyYTQzXkEyXkFqcGdeQXVyNTIxNDgzOTg@._V1_SX300.jpg"
+        },
+        {
+            "Title": "The Broken Hearts Club: A Romantic Comedy",
+            "Year": "2000",
+            "imdbID": "tt0222850",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMmZlODkzNmItZmIwZi00OGYxLTkwMjQtMzlhYmYwNjMwNzlmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+        },
+        {
+            "Title": "King of Comedy",
+            "Year": "1999",
+            "imdbID": "tt0188766",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMGNkNDFlMWUtZmY2Yy00YWYxLWFhYTctYzgwNzdmZjZlMmUwXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_SX300.jpg"
+        },
+        {
+            "Title": "Louis C.K.: Live at the Comedy Store",
             "Year": "2015",
-            "imdbID": "tt3775086",
+            "imdbID": "tt4368814",
             "Type": "movie",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BOThjNDQ0ZjUtYWRjYi00ZjBlLWE4MzgtOWM5NGUyNTk2ZWUzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjQwNzkzODc@._V1_SX300.jpg"
+            "Poster": "https://m.media-amazon.com/images/M/MV5BODJlMmIyNjEtZDQ0ZS00MGIyLWEyZmYtOTQyYTQyMWJkODhmXkEyXkFqcGdeQXVyMjQ0ODQ0MzQ@._V1_SX300.jpg"
         },
         {
-            "Title": "My Life as a Teenage Robot",
-            "Year": "1999–2023",
-            "imdbID": "tt0318233",
-            "Type": "series",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BYzk2ZjdkMDUtZDZjOS00Y2RlLTk3NzktMGI0OTcyNDJlZjc3XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_SX300.jpg"
-        },
-        {
-            "Title": "Robot Chicken: Star Wars",
-            "Year": "2007",
-            "imdbID": "tt1020990",
+            "Title": "The Comedy of Terrors",
+            "Year": "1963",
+            "imdbID": "tt0056943",
             "Type": "movie",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BNTQ2MDU1MmQtMmM3NC00OWMxLWE5MWItNWUwZTNmNzFlNjY2XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_SX300.jpg"
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYWRmNGQxM2MtN2I5OS00NTc1LTlmNGEtMGYwYTIyMjE3NjI5XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg"
         },
         {
-            "Title": "Robot Overlords",
-            "Year": "2014",
-            "imdbID": "tt2145829",
+            "Title": "The Original Kings of Comedy",
+            "Year": "2000",
+            "imdbID": "tt0236388",
             "Type": "movie",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BMjM1ODc0MDgzNV5BMl5BanBnXkFtZTgwMzcyNzE1NDE@._V1_SX300.jpg"
-        },
-        {
-            "Title": "Robot Jox",
-            "Year": "1989",
-            "imdbID": "tt0102800",
-            "Type": "movie",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BMDhmYzI5NjEtNWY4NC00YWJhLWEyZTktODU5MTBhZWU1NDI2XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg"
-        },
-        {
-            "Title": "I'm Not a Robot",
-            "Year": "2017–2018",
-            "imdbID": "tt7521778",
-            "Type": "series",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BZjNlZmUyYmMtNjNjMS00NzQ5LTlmYjktNDVkMmRjMTQyMmVjXkEyXkFqcGdeQXVyNzk0NTA5NQ@@._V1_SX300.jpg"
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTI5NDY1NDU1M15BMl5BanBnXkFtZTcwODcyNTMyMQ@@._V1_SX300.jpg"
         }
     ],
-    "totalResults": "545",
+    "totalResults": "2235",
     "Response": "True"
 }

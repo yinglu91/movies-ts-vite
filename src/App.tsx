@@ -20,20 +20,11 @@ const App = () => {
     <div className='app'>
       <h1>MovieLand</h1>
 
-      {movies.length > 0 ? (
-        <div className='container'>
-          {movies.map((movie) => (
-            <MovieCard
-              key={movie.imdbID}
-              movie={movie}
-            />
-          ))}
-        </div>
-      ) : (
-        <div className='empty'>
-          <h2>No movies found</h2>
-        </div>
-      )}
+      <div className='container'>
+        {movies.map((movie) => (
+          <MovieCard movie88={movie} />
+        ))}
+      </div>
     </div>
   )
 }

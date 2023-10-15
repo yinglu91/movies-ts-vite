@@ -1,23 +1,25 @@
 import { MovieType } from '../App'
 
 type Props = {
-  movie: MovieType
+  movie88: MovieType
 }
-const MovieCard = ({ movie }: Props) => {
-  const { imdbID, Year, Poster, Title, Type } = movie
+
+const MovieCard = ({ movie88 }: Props) => {
+  const { imdbID, Year, Poster: imageUrl, Title, Type } = movie88
+  // const imageUrl = movie.Poster
+  // const imdbID = movie.imdbID
 
   return (
-    <div
-      className='movie'
-      key={imdbID}
-    >
+    <div className='movie'>
       <div>
         <p>{Year}</p>
       </div>
 
       <div>
         <img
-          src={Poster !== 'N/A' ? Poster : 'https://via.placeholder.com/400'}
+          src={
+            imageUrl !== 'N/A' ? imageUrl : 'https://via.placeholder.com/400'
+          }
           alt={Title}
         />
       </div>
